@@ -1,8 +1,4 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
+### This repo is an experiences sharing website about local businesses build with Laravel  ###
 
 * Quick summary
 * Version
